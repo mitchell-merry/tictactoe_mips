@@ -130,7 +130,7 @@ __m_exit:
 #   Win check  -    $s4 = 0
 init:
     li $s0, 0                   # Initialise board-turn to 0
-    li $s0, 0                   # Initialise win-check to 0
+    li $s4, 0                   # Initialise win-check to 0
 
     # Print completed initialisation message
     li $v0, 4                   # syscall code for print_str
