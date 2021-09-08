@@ -30,3 +30,5 @@ Ultimately, this amounted to 700 lines of beautiful, beautiful code. It was a ve
 # If I had more time
 - I would have tried to make the win checking algorith more general, in that instead of having different functions for row and column, I would have instead passed in a direction as a an argument and checked along that direction. I realised this technique after I had written this code while I was trying to do something similar for checking the diagonals
 - Not written it in assembly! ;)
+
+![Screenshot of the program](https://cdn.discordapp.com/attachments/764941385701785602/878649099648385024/unknown.png)
