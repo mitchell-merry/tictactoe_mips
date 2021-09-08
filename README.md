@@ -27,7 +27,7 @@ To do this, we need to artificially create the following constructs to decompose
 
 Ultimately, this amounted to 700 lines of beautiful, beautiful code. It was a very fun challenge that I put up for myself - when I began to understand how higher level languages relate to the constructs in Assembly, I was able to expand upon the concepts and come to this project in roughly a day.
 
-# If I had more time
+# If I had more time or if I did it again
 - I would have tried to make the win checking algorith more general, in that instead of having different functions for row and column, I would have instead passed in a direction as a an argument and checked along that direction. I realised this technique after I had written this code while I was trying to do something similar for checking the diagonals
 - Not written it in assembly! ;)
 
